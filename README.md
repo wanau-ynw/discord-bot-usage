@@ -1,12 +1,10 @@
-# discord-bot-usage
+# Discord疑似熱帯Bot 利用マニュアル
 
-Discordの疑似熱帯で使用するBotの利用手順です。
+基本的な使い方は[こちら](基本操作.md)を参照してください。  
 
-現在整備中・・・
-
-ちょっと古いですが、最初の説明書をとりあえずアップロードしています。  
-基本的な使い方は以下を参照してください。  
-[説明書](Bot説明書.txt)
+必要に応じて、以下のファイルを参照してください。  
+[補助的な操作](補助的な操作.md)  
+[付録](付録.md)
 
 運営に使用する曲バナー取得ツールは、以下からダウンロードしてください。  
 [バナー取得ツール](https://github.com/wanau-ynw/discord-bot-usage/releases/download/banner-tool/bannerGetter.zip)
