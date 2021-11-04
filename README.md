@@ -1,6 +1,4 @@
-# discord-bot-usage
-
-Discordの疑似熱帯で使用するBotの利用手順です。
+# Discord疑似熱帯Bot 利用マニュアル
 
 基本的な使い方は[こちら](基本操作.md)を参照してください。  
 
